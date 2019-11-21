@@ -3,3 +3,4 @@ source: git@github.com:chuistack/chui-ingress-ingress-nginx.git
 type: ingress-controller
 variant: ingress-nginx
 name: {{globalAppName}}-{{application}}
+pulumiOrgName: {{pulumiOrgName}}
