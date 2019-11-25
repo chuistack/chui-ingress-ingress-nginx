@@ -1,5 +1,7 @@
 {
-    "name": "chui-core",
+    "name": "chui-ingress-ingress-nginx",
+    "description": "Deploys the ingress-nginx ingress controller to a Chui cluster.",
+    "license": "MIT",
     "devDependencies": {
         "@types/node": "latest"
     },
