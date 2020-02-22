@@ -1,6 +1,9 @@
 {
     "name": "chui-ingress-ingress-nginx",
     "description": "Deploys the ingress-nginx ingress controller to a Chui cluster.",
+    "repository": {
+        "url": "https://github.com/chuistack/chui-ingress-ingress-nginx"
+    },
     "license": "MIT",
     "devDependencies": {
         "@types/node": "^13.7.4"
